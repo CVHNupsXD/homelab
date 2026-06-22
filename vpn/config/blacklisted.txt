@@ -1,0 +1,13 @@
+218.231.251.0/24  # BBIX SG Anycast
+218.231.248.0/22  # BBIX International
+52.93.120.178/32  # AWS Region: us-west-1
+52.93.120.179/32  # AWS Region: us-west-2
+150.222.38.192/26 # AWS Region: us-west-2
+52.144.230.204/31 # AWS Region: ap-southeast-1 (Singapore)
+52.144.230.206/31 # AWS Region: ap-southeast-1 (Singapore)
+52.144.230.208/31 # AWS Region: ap-southeast-1 (Singapore)
+52.144.230.210/31 # AWS Region: ap-southeast-1 (Singapore)
+52.144.233.192/26 # AWS Region: eu-west-1
+150.222.49.96/27  # AWS Region: ap-southeast-3 (Jakarta)
+150.222.49.128/27 # AWS Region: ap-southeast-3 (Jakarta)
+150.222.49.160/27 # AWS Region: ap-southeast-3 (Jakarta)
